@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Duration of Demolition1 Day2 _59e5d0</name>
+   <tag></tag>
+   <elementGuidId>c9f878e2-7988-4be8-92ed-9c5a7c3af4ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[12]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>85b7a619-edab-4536-ba51-f2ed20a74b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control is_required_false changed_false </value>
+      <webElementGuid>5af4e068-4577-4f34-b27b-7ea675bbde92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Duration of Demolition1 Day2 Days3 Days4 Days5 Days6 Days1 Week2 Weeks3 Weeks4 Weeks5 Weeks6 Weeks7 Weeks8 Weeks9 Weeks10 Weeks11 Weeks12 Weeks13 Weeks14 Weeks15 Weeks16 Weeks17 Weeks18 Weeks19 Weeks20 Weeks21 Weeks22 Weeks23 Weeks24 Weeks25 Weeks26 Weeks27 Weeks28 Weeks29 Weeks30 Weeks31 Weeks32 Weeks33 Weeks36 Weeks34 Weeks35 Weeks37 Weeks38 Weeks39 Weeks40 Weeks41 Weeks42 Weeks43 Weeks44 Weeks45 Weeks46 Weeks47 Weeks48 Weeks49 Weeks50 Weeks51 Weeks52 WeeksOther - Please inform in the &quot;Additional Information&quot; field</value>
+      <webElementGuid>97e95fd9-f739-4aef-9aa1-67cfff28bad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;other_pages_container&quot;]/div[2]/div[@class=&quot;container&quot;]/form[@class=&quot;order_form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-6 select_box_field&quot;]/select[@class=&quot;form-control is_required_false changed_false&quot;]</value>
+      <webElementGuid>a5398fa2-a717-4469-9472-b61a216a521c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[12]/select</value>
+      <webElementGuid>09d20782-d34f-4e19-981b-ea514941f1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is only applied in Mitigation invoices'])[1]/following::select[1]</value>
+      <webElementGuid>e5e348a6-9408-4cbb-89fb-35de8315956b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration of Demolition'])[1]/following::select[1]</value>
+      <webElementGuid>770e8417-a193-45f5-af3c-ca145f8e02b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/preceding::select[1]</value>
+      <webElementGuid>d80cece3-aaf7-452c-8ae3-745f564b85b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/select</value>
+      <webElementGuid>4727ce61-a905-4e85-80fa-02428eb27634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Duration of Demolition1 Day2 Days3 Days4 Days5 Days6 Days1 Week2 Weeks3 Weeks4 Weeks5 Weeks6 Weeks7 Weeks8 Weeks9 Weeks10 Weeks11 Weeks12 Weeks13 Weeks14 Weeks15 Weeks16 Weeks17 Weeks18 Weeks19 Weeks20 Weeks21 Weeks22 Weeks23 Weeks24 Weeks25 Weeks26 Weeks27 Weeks28 Weeks29 Weeks30 Weeks31 Weeks32 Weeks33 Weeks36 Weeks34 Weeks35 Weeks37 Weeks38 Weeks39 Weeks40 Weeks41 Weeks42 Weeks43 Weeks44 Weeks45 Weeks46 Weeks47 Weeks48 Weeks49 Weeks50 Weeks51 Weeks52 WeeksOther - Please inform in the &quot;Additional Information&quot; field' or . = 'Select Duration of Demolition1 Day2 Days3 Days4 Days5 Days6 Days1 Week2 Weeks3 Weeks4 Weeks5 Weeks6 Weeks7 Weeks8 Weeks9 Weeks10 Weeks11 Weeks12 Weeks13 Weeks14 Weeks15 Weeks16 Weeks17 Weeks18 Weeks19 Weeks20 Weeks21 Weeks22 Weeks23 Weeks24 Weeks25 Weeks26 Weeks27 Weeks28 Weeks29 Weeks30 Weeks31 Weeks32 Weeks33 Weeks36 Weeks34 Weeks35 Weeks37 Weeks38 Weeks39 Weeks40 Weeks41 Weeks42 Weeks43 Weeks44 Weeks45 Weeks46 Weeks47 Weeks48 Weeks49 Weeks50 Weeks51 Weeks52 WeeksOther - Please inform in the &quot;Additional Information&quot; field')]</value>
+      <webElementGuid>d0a9de59-2fee-4b60-abf0-99940cd902da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

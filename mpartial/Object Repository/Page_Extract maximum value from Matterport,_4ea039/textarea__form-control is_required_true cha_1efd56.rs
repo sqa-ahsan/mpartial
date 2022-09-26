@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea__form-control is_required_true cha_1efd56</name>
+   <tag></tag>
+   <elementGuidId>85ba9d9a-eea3-48f9-a0f9-08c8fed48b2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[20]/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>06299007-9a3b-4999-94ed-772d0ef2f1e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control is_required_true changed_false </value>
+      <webElementGuid>c3251f4b-4bc1-4b92-bf22-d78acdea5d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;other_pages_container&quot;]/div[2]/div[@class=&quot;container&quot;]/form[@class=&quot;order_form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-12&quot;]/textarea[@class=&quot;form-control is_required_true changed_false&quot;]</value>
+      <webElementGuid>e6aa7b6a-52db-4968-8a1b-31296075b7f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[20]/textarea</value>
+      <webElementGuid>672531d8-0481-4a57-ab39-36402592c840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>ac7ecf37-48cd-4bae-9fea-b15ace1168c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

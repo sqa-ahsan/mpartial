@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Informs the applied price list_form-c_d6a537</name>
+   <tag></tag>
+   <elementGuidId>cce5f4d6-39de-422d-8836-291689c880f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.is_required_true.changed_false.ds</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f59c846e-bac7-4a61-a658-5c05f02ce6c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control is_required_true changed_false ds</value>
+      <webElementGuid>283e3d29-f0ea-460a-92d6-ba097f573e70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Ex. V7A 2J3</value>
+      <webElementGuid>f7b7fc1c-e94d-4975-a0c5-35db77e7564a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;other_pages_container&quot;]/div[2]/div[@class=&quot;container&quot;]/form[@class=&quot;order_form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-6 select_box_field&quot;]/input[@class=&quot;form-control is_required_true changed_false ds&quot;]</value>
+      <webElementGuid>8da3bfb4-91bc-4b73-b697-332ebe3513ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>12f155b2-0374-47ea-b0d2-264803c547f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[13]/input</value>
+      <webElementGuid>7cd4f1fc-1a87-4fc2-980f-8a11aa8c46d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/input</value>
+      <webElementGuid>d4b3a0ba-8473-49af-8b29-9672679c79ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Ex. V7A 2J3']</value>
+      <webElementGuid>aac71893-17f2-4c81-8cbc-7b5bc55daa48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

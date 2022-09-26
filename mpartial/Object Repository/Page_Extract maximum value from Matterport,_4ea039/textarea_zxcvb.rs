@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_zxcvb</name>
+   <tag></tag>
+   <elementGuidId>75a68e58-bea9-4d63-aaa0-1d588175914e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[23]/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>7b756b53-d53e-420d-9f5a-793c8634bee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control is_required_true changed_true </value>
+      <webElementGuid>8d853aac-1fc3-4a0e-9875-bb553bb67e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>zxcvb</value>
+      <webElementGuid>49b4177b-b814-4949-a760-79c4896dff2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;other_pages_container&quot;]/div[2]/div[@class=&quot;container&quot;]/form[@class=&quot;order_form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-12&quot;]/textarea[@class=&quot;form-control is_required_true changed_true&quot;]</value>
+      <webElementGuid>a4a9d144-f15d-415c-8db7-e53a6e7f8717</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[23]/textarea</value>
+      <webElementGuid>19920535-41ce-44a5-99b4-26d9580e77c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[19]/following::textarea[1]</value>
+      <webElementGuid>910d884d-59e7-486c-8a3c-0a20db2f2231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPEs Concessions'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>351d561d-bf0c-4341-a51c-9aeb94d2839c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dry Out Monitoring Duration'])[1]/preceding::textarea[2]</value>
+      <webElementGuid>aeb2994d-f23b-4232-a0dd-af17dd93e22d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='zxcvb']/parent::*</value>
+      <webElementGuid>3e4221b7-20cd-4f5d-ab16-694e5673abb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[23]/textarea</value>
+      <webElementGuid>6e40fe67-e136-4fc9-aff7-57b507d90b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[(text() = 'zxcvb' or . = 'zxcvb')]</value>
+      <webElementGuid>bb65ca39-809a-4a27-92a9-1c01591c7e78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

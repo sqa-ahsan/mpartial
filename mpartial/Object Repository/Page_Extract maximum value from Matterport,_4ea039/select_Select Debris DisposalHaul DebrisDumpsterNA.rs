@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Debris DisposalHaul DebrisDumpsterNA</name>
+   <tag></tag>
+   <elementGuidId>cb613414-3337-43a1-8558-ad722e197fe0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[5]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>03be238b-bed4-4d77-9bab-8730ef9f6821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control is_required_true changed_false </value>
+      <webElementGuid>051982a7-b4ce-416b-af96-4a878df743f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Debris DisposalHaul DebrisDumpsterN/A</value>
+      <webElementGuid>5b1ee776-bb4a-4bfb-bca3-b3518e2a269c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;other_pages_container&quot;]/div[2]/div[@class=&quot;container&quot;]/form[@class=&quot;order_form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-6 select_box_field&quot;]/select[@class=&quot;form-control is_required_true changed_false&quot;]</value>
+      <webElementGuid>b829a259-bb24-434d-82d9-cd2076e75ef5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[5]/select</value>
+      <webElementGuid>997d5521-89bb-4c99-8541-a49914c05d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::select[1]</value>
+      <webElementGuid>12754c11-a57a-4043-b9bb-67aa08591e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::select[1]</value>
+      <webElementGuid>ede19751-d4a9-4e45-8755-8d9c62276623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f4f3310f-eb57-4959-9f20-50f714dc33e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Debris DisposalHaul DebrisDumpsterN/A' or . = 'Select Debris DisposalHaul DebrisDumpsterN/A')]</value>
+      <webElementGuid>1f671e3a-d258-40f6-ab0d-83b2b7c90c79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_mpartialScope</name>
+   <tag></tag>
+   <elementGuidId>67cca7c9-b44f-48d1-beea-7eadd001c978</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div/div[2]/div[3]/div[2]/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>5e0b2c02-669e-4f5e-b933-d60dd1e019aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-heading</value>
+      <webElementGuid>d91a1ab8-d987-4592-82f1-9d9ff342ba3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>mpartialScope</value>
+      <webElementGuid>85d7ceb7-034d-4106-ae51-e5b52fd4866d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[3]/div[@class=&quot;mpartial_section matterPortScans&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row matter-data&quot;]/div[@class=&quot;col-md-6 scan-right&quot;]/div[@class=&quot;scan-facilities&quot;]/div[@class=&quot;scan-detail&quot;]/a[1]/h3[@class=&quot;sub-heading&quot;]</value>
+      <webElementGuid>c392cfc4-7464-4580-b7fd-21fa170907d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[2]/div[3]/div[2]/a/h3</value>
+      <webElementGuid>35bbc65e-89de-47b0-9e0d-803f2e1ab50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mpartialConvert'])[2]/following::h3[1]</value>
+      <webElementGuid>c90541e3-8803-4a9e-99db-374e01b22408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mpartialMbed'])[2]/following::h3[2]</value>
+      <webElementGuid>0fdc13d7-edb8-4e39-887d-925041ae8c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mpartialMbed'])[3]/preceding::h3[1]</value>
+      <webElementGuid>ab54bb67-0c0c-4ab7-aa04-418aaf4210fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre-Mitigation'])[1]/preceding::h3[1]</value>
+      <webElementGuid>b7de7890-f021-4e67-9eb3-ded512c753d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a/h3</value>
+      <webElementGuid>bb1add39-1adf-4a3b-b2aa-dbfc4cc400b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'mpartialScope' or . = 'mpartialScope')]</value>
+      <webElementGuid>82c85a87-5239-44aa-8b98-6e65fc7990b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

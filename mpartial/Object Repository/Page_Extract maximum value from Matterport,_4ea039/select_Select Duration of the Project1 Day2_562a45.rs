@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Duration of the Project1 Day2_562a45</name>
+   <tag></tag>
+   <elementGuidId>904a4bd7-e893-4739-868b-bf319150c2e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[10]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>decf9125-e549-4021-9a57-1efcb347003f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control is_required_true changed_false </value>
+      <webElementGuid>2c179293-508c-4062-8e07-185344c2ab9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Duration of the Project1 Day2 Days3 Days4 Days5 Days6 Days1 Week2 Weeks3 Weeks4 Weeks5 Weeks6 Weeks7 Weeks8 Weeks9 Weeks10 Weeks11 Weeks12 Weeks13 Weeks14 Weeks15 Weeks16 Weeks17 Weeks18 Weeks19 Weeks20 Weeks21 Weeks22 Weeks23 Weeks24 Weeks25 Weeks26 Weeks27 Weeks28 Weeks29 Weeks30 Weeks31 Weeks32 Weeks33 Weeks36 Weeks34 Weeks35 Weeks37 Weeks38 Weeks39 Weeks40 Weeks41 Weeks42 Weeks43 Weeks44 Weeks45 Weeks46 Weeks47 Weeks48 Weeks49 Weeks50 Weeks51 Weeks52 WeeksOther - Please inform in the &quot;Additional Information&quot; field</value>
+      <webElementGuid>46e1f01b-2850-432d-97e4-2d5635479eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;other_pages_container&quot;]/div[2]/div[@class=&quot;container&quot;]/form[@class=&quot;order_form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-12&quot;]/select[@class=&quot;form-control is_required_true changed_false&quot;]</value>
+      <webElementGuid>acfd28a2-ee11-4540-bd69-2f7c293699f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[10]/select</value>
+      <webElementGuid>4b2b8d4c-4406-49b2-a74d-f26a9f16bf74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Either known or projected'])[1]/following::select[1]</value>
+      <webElementGuid>700ee875-815f-4adf-8e08-089c2a89f9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::select[1]</value>
+      <webElementGuid>4c275f2d-69c2-4a82-b48c-873f494b5034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/preceding::select[1]</value>
+      <webElementGuid>ca772740-316f-4cbc-8e47-85b8fc2afb7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/select</value>
+      <webElementGuid>78e8cbe1-0af9-4f53-acd0-9c6ea10c6b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Duration of the Project1 Day2 Days3 Days4 Days5 Days6 Days1 Week2 Weeks3 Weeks4 Weeks5 Weeks6 Weeks7 Weeks8 Weeks9 Weeks10 Weeks11 Weeks12 Weeks13 Weeks14 Weeks15 Weeks16 Weeks17 Weeks18 Weeks19 Weeks20 Weeks21 Weeks22 Weeks23 Weeks24 Weeks25 Weeks26 Weeks27 Weeks28 Weeks29 Weeks30 Weeks31 Weeks32 Weeks33 Weeks36 Weeks34 Weeks35 Weeks37 Weeks38 Weeks39 Weeks40 Weeks41 Weeks42 Weeks43 Weeks44 Weeks45 Weeks46 Weeks47 Weeks48 Weeks49 Weeks50 Weeks51 Weeks52 WeeksOther - Please inform in the &quot;Additional Information&quot; field' or . = 'Select Duration of the Project1 Day2 Days3 Days4 Days5 Days6 Days1 Week2 Weeks3 Weeks4 Weeks5 Weeks6 Weeks7 Weeks8 Weeks9 Weeks10 Weeks11 Weeks12 Weeks13 Weeks14 Weeks15 Weeks16 Weeks17 Weeks18 Weeks19 Weeks20 Weeks21 Weeks22 Weeks23 Weeks24 Weeks25 Weeks26 Weeks27 Weeks28 Weeks29 Weeks30 Weeks31 Weeks32 Weeks33 Weeks36 Weeks34 Weeks35 Weeks37 Weeks38 Weeks39 Weeks40 Weeks41 Weeks42 Weeks43 Weeks44 Weeks45 Weeks46 Weeks47 Weeks48 Weeks49 Weeks50 Weeks51 Weeks52 WeeksOther - Please inform in the &quot;Additional Information&quot; field')]</value>
+      <webElementGuid>88a40021-3c25-429b-8e0e-416aa95527eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

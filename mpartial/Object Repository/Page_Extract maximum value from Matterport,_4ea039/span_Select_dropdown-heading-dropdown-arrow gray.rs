@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_dropdown-heading-dropdown-arrow gray</name>
+   <tag></tag>
+   <elementGuidId>96de6d01-52aa-49df-8742-985d7ac77a90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[11]/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.dropdown-heading-dropdown-arrow.gray</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93acdead-58c0-4ab9-9d24-ce8492dd5ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-heading-dropdown-arrow gray</value>
+      <webElementGuid>b6b2d1a8-cf3c-4d38-9134-8d93af5fb9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;other_pages_container&quot;]/div[2]/div[@class=&quot;container&quot;]/form[@class=&quot;order_form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-12&quot;]/div[@class=&quot;go4079732705 valid_0 ds is_required_true&quot;]/div[@class=&quot;go3433208811 dropdown-container&quot;]/div[@class=&quot;go1053659416 dropdown-heading&quot;]/span[@class=&quot;dropdown-heading-dropdown-arrow gray&quot;]</value>
+      <webElementGuid>3a2ab880-2f54-4fa1-9dd4-57cf5cd7e273</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/form/div/div[11]/div[2]/div/div/span</value>
+      <webElementGuid>d59f2ee3-d239-4970-a08a-1aee5a00edf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/following::span[1]</value>
+      <webElementGuid>a2acd234-f530-4adc-a4cd-047f821e9a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Please describe the quantities in the ', '&quot;', 'Additional Information', '&quot;', ' field')])[1]/following::span[2]</value>
+      <webElementGuid>f4e0d8f4-3c07-439b-a8fa-fe628b7df655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration of Demolition'])[1]/preceding::span[1]</value>
+      <webElementGuid>597c5581-fe25-48ed-94f8-33c239c28745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is only applied in Mitigation invoices'])[1]/preceding::span[1]</value>
+      <webElementGuid>941f288d-cfae-4076-9202-002f06513391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>a126ed97-9f73-4659-a110-efbcd1bba0d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

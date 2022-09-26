@@ -1,0 +1,54 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Extract maximum value from Matterport,_4ea039/button_Continue with Xactimate",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div[2]/div/div[2]/div/div/a/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Sign Out\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Extract maximum value from Matterport,_4ea039/button_Continue with Xactimate",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div[2]/div/div[2]/div/div/a/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Extract maximum value from Matterport,_4ea039/button_Continue with Xactimate_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Extract maximum value from Matterport,_4ea039/button_My Orders",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[5]/div/a/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "button.btn",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Extract maximum value from Matterport,_4ea039/button_My Orders_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Extract maximum value from Matterport,_4ea039/input__form-control is_required_true changed_true",
+      "brokenLocator": "//input[@value\u003d\u0027https://my.matterport.com/show/?m\u003dqJQhVRdycuv\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div[2]/div[2]/div/form/div/div[3]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Extract maximum value from Matterport,_4ea039/input__form-control is_required_true changed_true_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Extract maximum value from Matterport,_4ea039/input__form-control is_required_true changed_true_1",
+      "brokenLocator": "//input[@value\u003d\u0027https://my.matterport.com/show/?m\u003dqJQhVRdycuv\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div[2]/div[2]/div/form/div/div[4]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Extract maximum value from Matterport,_4ea039/input__form-control is_required_true changed_true_1_idRelative.png"
+    }
+  ]
+}
